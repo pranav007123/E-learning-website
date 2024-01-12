@@ -1,0 +1,27 @@
+.conti{
+    background-color:orange;
+    padding-left: 240px;
+}
+.cont{
+    background-color: orange;
+}
+.unlock{
+    color: orange;
+}
+.front{
+    background-color: antiquewhite;
+    margin-top: 100px;
+    align-content: center;
+}
+.f2{
+    background-color: azure;
+    align-content:space-around;
+}
+.cc{
+    height: 250px;
+    width: 400px;
+}
+body{
+    overflow-x: hidden;
+}
+
